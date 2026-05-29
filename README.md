@@ -1,5 +1,5 @@
-# Scrabble 2 in Python
-Advanced Scrabble game implemented in Python for the subject **Fundamentos da Programação** at **Instituto Superior Técnico**.
+# Scrabble AI in Python
+Advanced Scrabble game implemented in Python for the **Foundations of Programming** course at **Instituto Superior Técnico**.
 
 ### Features
 - 15×15 text-based Scrabble board  
