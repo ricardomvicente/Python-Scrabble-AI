@@ -1,10 +1,10 @@
-# Scrabble AI in Python
+# Rule-Based Scrabble AI in Python
 Advanced Scrabble game implemented in Python for the **Foundations of Programming** course at **Instituto Superior Técnico**.
 
 ### Features
 - 15×15 text-based Scrabble board  
 - Supports 2-4 players (Human or AI)  
-- AI with 3 difficulty levels  
+- Rule-Based AI with 3 difficulty levels  
 - Vocabulary-based word validation  
 - Pattern and sub-pattern generation  
 - Fisher-Yates tile shuffling  
